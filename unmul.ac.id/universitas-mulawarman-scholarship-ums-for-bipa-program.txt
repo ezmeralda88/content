@@ -36,9 +36,9 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg">
-<meta property="og:site_name" content="SL999">
+<meta property="og:site_name" content="SL888">
 <meta property="product:price:amount" content="23.00">
-<meta property="product:brand" content="SL999">
+<meta property="product:brand" content="SL888">
 <meta property="product:price:currency" content="USD">
 <meta property="product:availability" content="in stock">
 <meta property="product:retailer_item_id" content="74165272D1V">
@@ -58,9 +58,7 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 <div class='m-top-banner'>
 <div class='free-shipping'>
 <span class='free-shipping__icon'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><script data-pagespeed-no-defer>//<![CDATA[
-(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://vivogrup.com/generator/v2/generated/sl888-apk-terbaru-98-aplikasi-slot-android-paling-dicari-2026.html','82dtZm2p5Q',true,false,'vViM0z-12Ds');
-//]]></script><img src="https://assets.teepublic.com/assets/teepublicons/truck_primary200-71f9f7038a26ec24cb8c157dca28eb42731aaeb528dacc4cbd3493371be19d8b.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="3167720" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://assets.teepublic.com/assets/teepublicons/truck_primary200-71f9f7038a26ec24cb8c157dca28eb42731aaeb528dacc4cbd3493371be19d8b.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
 </span>
 <strong>
 FREE
@@ -86,7 +84,7 @@ $70+
 <span class='link__content'>
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" type="image/webp">
-  <img class="vc-header-logo__image" src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SL999 Logo" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+  <img class="vc-header-logo__image" src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SL888 Logo">
 </picture>
 
 
@@ -102,9 +100,9 @@ $70+
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
-<p>Platform Game Online Esport Terbaik Hari Ini: SL999</p>
-<p>Link Akses SL999 Terbaru</p>
-<p>Cari Kami Di Google : SL999</p>
+<p>Platform Game Online Esport Terbaik Hari Ini: SL888</p>
+<p>Link Akses SL888 Terbaru</p>
+<p>Cari Kami Di Google : SL888</p>
 </div>
 </div>
 <input type="text" name="query" id="jsAutoCompleteHeader" class="form__control m-header__search-field jsHeadSearchField gtmSearchHeaderQuery" data-searchUrl="/search/autocomplete" data-trendingSearchResults="[{&quot;result&quot;:&quot;kpop demon hunters&quot;,&quot;score&quot;:38.23},{&quot;result&quot;:&quot;weird twitter&quot;,&quot;score&quot;:18.57},{&quot;result&quot;:&quot;eagles football&quot;,&quot;score&quot;:17.06},{&quot;result&quot;:&quot;detroit lions&quot;,&quot;score&quot;:16.81},{&quot;result&quot;:&quot;i offended you&quot;,&quot;score&quot;:16.45},{&quot;result&quot;:&quot;i run a tight shipwreck&quot;,&quot;score&quot;:7.38},{&quot;result&quot;:&quot;bad bunny&quot;,&quot;score&quot;:7.13},{&quot;result&quot;:&quot;jane goodall&quot;,&quot;score&quot;:6.8},{&quot;result&quot;:&quot;bad knees&quot;,&quot;score&quot;:6.16},{&quot;result&quot;:&quot;kindness is punk&quot;,&quot;score&quot;:5.91},{&quot;result&quot;:&quot;aunt tifa&quot;,&quot;score&quot;:5.86},{&quot;result&quot;:&quot;steelers football&quot;,&quot;score&quot;:5.7},{&quot;result&quot;:&quot;eyepatch rev&quot;,&quot;score&quot;:4.9},{&quot;result&quot;:&quot;eagles&quot;,&quot;score&quot;:4.41},{&quot;result&quot;:&quot;jaxson dart&quot;,&quot;score&quot;:4.02},{&quot;result&quot;:&quot;buffalo bills&quot;,&quot;score&quot;:3.94},{&quot;result&quot;:&quot;dungeon crawler carl&quot;,&quot;score&quot;:3.89},{&quot;result&quot;:&quot;doctor who&quot;,&quot;score&quot;:3.87},{&quot;result&quot;:&quot;government shutdown&quot;,&quot;score&quot;:3.61},{&quot;result&quot;:&quot;ankylosaurus&quot;,&quot;score&quot;:3.51},{&quot;result&quot;:&quot;chicago bears&quot;,&quot;score&quot;:3.34},{&quot;result&quot;:&quot;crucial catch&quot;,&quot;score&quot;:2.9},{&quot;result&quot;:&quot;sumud flotilla&quot;,&quot;score&quot;:2.82},{&quot;result&quot;:&quot;funny hardhat&quot;,&quot;score&quot;:2.29},{&quot;result&quot;:&quot;haunted by 67&quot;,&quot;score&quot;:2.21},{&quot;result&quot;:&quot;ozzy osbourne&quot;,&quot;score&quot;:2.2},{&quot;result&quot;:&quot;buffalo bills football team&quot;,&quot;score&quot;:2.13},{&quot;result&quot;:&quot;i am aunt tifa&quot;,&quot;score&quot;:2.04},{&quot;result&quot;:&quot;the river city&quot;,&quot;score&quot;:2.0},{&quot;result&quot;:&quot;super mario&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;rocky horror&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;halloween 3&quot;,&quot;score&quot;:1.82},{&quot;result&quot;:&quot;michael jordan&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;creepshow&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;scott hall&quot;,&quot;score&quot;:1.8},{&quot;result&quot;:&quot;boston celtics&quot;,&quot;score&quot;:1.79},{&quot;result&quot;:&quot;3i atlas&quot;,&quot;score&quot;:1.77},{&quot;result&quot;:&quot;same shit different&quot;,&quot;score&quot;:1.7},{&quot;result&quot;:&quot;chinga la migra&quot;,&quot;score&quot;:1.62},{&quot;result&quot;:&quot;radical left&quot;,&quot;score&quot;:1.61},{&quot;result&quot;:&quot;digimon&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;halloween cat&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;tropic thunder&quot;,&quot;score&quot;:1.42},{&quot;result&quot;:&quot;no kings anti trump&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;no concert today&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;the life of a showgirl&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;seven samurai&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;do not harm authenticc since mmxx take&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;acdc&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;ohio state buckeyes&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;borderlands&quot;,&quot;score&quot;:1.39},{&quot;result&quot;:&quot;star trek&quot;,&quot;score&quot;:1.37},{&quot;result&quot;:&quot;80s movies&quot;,&quot;score&quot;:1.29},{&quot;result&quot;:&quot;max verstappen&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;robocop&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;siempre antifascista&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pelosi funny&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pete rose&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;macho man fred savage&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;youngboy masa&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;dirty dancing&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;las vegas aces&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;syracuse&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;war games&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;johnny cash&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;surfing&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;steelers ireland&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;iron man&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;attack on titan&quot;,&quot;score&quot;:1.18},{&quot;result&quot;:&quot;michael myers&quot;,&quot;score&quot;:1.13},{&quot;result&quot;:&quot;resident evil&quot;,&quot;score&quot;:1.1},{&quot;result&quot;:&quot;wait what&quot;,&quot;score&quot;:1.05},{&quot;result&quot;:&quot;wkrp in cincinnati&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;dodgers baseball&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;cartoon network&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;blue velvwt&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;tombstone&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;can i lick it&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;contra&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;george kittle&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;rick and morty&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;knicks basketball&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;blondie band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;cyberpunk edgerunners&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;drake rapper&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;benito bowl&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;battlefront 2&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chad powers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;slapshot&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;book lovers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;modest mouse&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;new balance&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sunami&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;youngboy&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;rock climbing&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;beanie&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;halloweentown est 1998&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dnd warlock&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;definitely not a cop&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;i love fall most of all&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;renathornton&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;retro philadelphia phillies&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;no problemo&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;weed&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;school bus driver&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chinga tu maga&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;nj devils&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sci fi&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;possum&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;replacements band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;spite&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;political protest&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;scream&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dad&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;red bull&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;80s tv&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;pabst blue ribbon&quot;,&quot;score&quot;:0.99},{&quot;result&quot;:&quot;pittsburgh steelers&quot;,&quot;score&quot;:0.93},{&quot;result&quot;:&quot;cleveland browns&quot;,&quot;score&quot;:0.9},{&quot;result&quot;:&quot;eyepatch reveille&quot;,&quot;score&quot;:0.85},{&quot;result&quot;:&quot;rams football&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;engineer&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;road house&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;pigeon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;lock em up&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;patsymahon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;jesus meme&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;darmok and jalad&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;enemy within&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;unreliable narrator&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;miller high life&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;bernie parent - philadelphia blazers&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;black keys&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;rhino&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;gibson guitar&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;disney land&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;oddworld&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;mike mussina in baltimore orioles&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dressed to impress roblox&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ryan bingham&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;emmet otter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;zildjian cymbals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;no you hang up&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;luigi&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ace ventura&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;tyler thecreator&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;berserk anime&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;grandpa&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the growlers&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the warning&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;care bear&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;protect ya neck&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;poison&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;jason&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fernando valenzuela&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pulseretail&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;show business&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;trailer park&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry mclaurin washington scary terry&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;liliaamer1&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;9/11&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;rey mysterio&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;demon slayer inosuke&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ally&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;german shepherd&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;game of thrones&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;lebron&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dance&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;returns and refund&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;glacier national park montana&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;investor&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;miller lite&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;casper&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry funk&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;big boy&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ny yankees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;super furry animals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;one lonely beastie i be&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dismember band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;bluey lions&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;revenge of the ninja&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;silence ofthe lambs dog&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dia de los muertos sugar skull&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;don&#39;t tell mom the babysitter&#39;s dead&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;siouxie and banshees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fraggle rock  long sleeved&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;halloween characters&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;river city&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;retro kansas city football vintage chiefs est 1960&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the life of an eldest daughter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;manual transmission&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pete rose vintage&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;light yellow tshirt with green lini g&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;international harvester&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;black cats&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;wonder twins&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;volbeat band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;smiley&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;they&#39;re coming to get you barbara&quot;,&quot;score&quot;:0.8}]" data-maxresults="6" data-animated="true" data-navigation--header-target="searchField" data-search-history="true" data-search-history-ca-show-notice="false" data-search-history-clear="<span class=&quot;teepublicon teepublicon--color-neutral-400 teepublicon-background--transparent&quot;><svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 48 48&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;><path d=&quot;M6.88 36.879a3 3 0 1 0 4.242 4.242L24 28.243 36.879 41.12a3 3 0 1 0 4.243-4.242L28.243 24l12.879-12.879a3 3 0 1 0-4.243-4.242L24.001 19.757 11.12 6.88a3 3 0 1 0-4.24 4.24L19.758 24 6.879 36.879Z&quot;></path></svg></span>" data-search-history-clock="<span class=&quot;teepublicon teepublicon--color-neutral-400 teepublicon-background--transparent&quot;><svg viewbox=&quot;0 0 48 48&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;>
@@ -185,57 +183,57 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999
+SL888
 
 </span>
 
 </a>
 
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999 APK" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888 APK" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999 APK
+SL888 APK
 
 </span>
 
 </a>
 
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999 LOGIN" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888 LOGIN" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999 LOGIN
+SL888 LOGIN
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999 DAFTAR" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888 DAFTAR" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999 DAFTAR
+SL888 DAFTAR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999 AKSES" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888 AKSES" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999 AKSES
+SL888 AKSES
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999 RESMI" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888 RESMI" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999 RESMI
+SL888 RESMI
 
 </span>
 
 </a>
 
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999 LINK ALTERNATIF" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888 LINK ALTERNATIF" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999 LINK ALTERNATIF
+SL888 LINK ALTERNATIF
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL999 PLATFORM" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" title="SL888 PLATFORM" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SL999 PLATFORM
+SL888 PLATFORM
 
 </span>
 
@@ -301,34 +299,34 @@ Please enable Javascript and return here.
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "Apa kelebihan apk slot SL999 versi 2026?",
+            "name": "Apakah SL888 app bisa digunakan secara online?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "SL999 slot apk versi 2026 menawarkan sistem yang lebih stabil, tampilan modern, dan akses online yang optimal."
+                "text": "SL888 app dirancang untuk penggunaan online agar fitur dapat berjalan secara real-time."
             }
         },
         {
             "@type": "Question",
-            "name": "Apa itu SL999?",
+            "name": "Apa kelebihan apk slot SL888 versi 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "SL999 adalah aplikasi hiburan digital yang dirancang untuk memberikan pengalaman penggunaan yang stabil dan nyaman di perangkat Android."
+                "text": "SL888 slot apk versi 2026 menawarkan sistem yang lebih stabil, tampilan modern, dan akses online yang optimal."
             }
         },
         {
             "@type": "Question",
-            "name": "Apakah SL999 mendukung login online?",
+            "name": "Bagaimana cara download SL888 APK?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ya, SL999 mendukung login online untuk mengakses fitur yang tersedia di dalam aplikasi."
+                "text": "Pengguna dapat melakukan download SL888 APK melalui link resmi, lalu memasangnya di perangkat Android."
             }
         },
         {
             "@type": "Question",
-            "name": "Apakah SL999 app bisa digunakan secara online?",
+            "name": "Bagaimana cara menggunakan SL888?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "SL999 app dirancang untuk penggunaan online agar fitur dapat berjalan secara real-time."
+                "text": "Pengguna dapat mengunduh aplikasi SL888, memasangnya di perangkat Android, lalu mengakses fitur yang tersedia dengan mudah."
             }
         }
     ]
@@ -356,7 +354,7 @@ Please enable Javascript and return here.
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "SL999"
+          "name": "SL888"
         }
       ]
     }
@@ -367,7 +365,7 @@ Please enable Javascript and return here.
 <script type="application/ld+json">{
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "SL999",
+    "name": "SL888",
     "description": "Unduh SL888 APK terbaru 9.8 aplikasi slot android paling dicari 2026. Gratis, ringan, mudah login, link resmi, slot gacor dengan peluang maxwin besar.",
     "image": "https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg",
     "operatingSystem": "ANDROID, IOS",
@@ -384,7 +382,7 @@ Please enable Javascript and return here.
         "ratingValue": "4.7",
         "bestRating": "5",
         "worstRating": "1",
-        "ratingCount": "802"
+        "ratingCount": "855"
     }
 }</script>
 <div class='jsDesignSecretId m-design__secret-id hidden'>
@@ -420,7 +418,7 @@ $10
 <div class='m-design__favorite-button-container' data-controller='rudderstack--filter-clicked design-tile--favorite' data-design-tile--favorite-add-icon-path-value='https://assets.teepublic.com/assets/teepublicons/heart_outline_primary500-aca86b959a2c54c785eda99a573d6d36c710e4020198f005b663335568299452.svg' data-design-tile--favorite-remove-icon-path-value='https://assets.teepublic.com/assets/teepublicons/heart_filled_danger500-e771e023bff5a3a668324db08daf887281d612a4d9e70d5e084c1a9052129bff.svg' data-rudderstack--filter-clicked-account-type-value='guest' data-rudderstack--filter-clicked-location-value='product_preview'>
 <button type="button" class="btn tp-favorite-button tp-favorite-button--inactive tp-btn--medium btn--white" data-action="click-&gt;rudderstack--filter-clicked#track click-&gt;design-tile--favorite#redirectSignUpPage touchstart-&gt;design-tile--favorite#handleTouch mouseenter-&gt;utilities--tooltip#show mouseleave-&gt;utilities--tooltip#hide" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="heart_icon" data-filter-option-label="add_to_favorites" data-controller="utilities--tooltip" data-utilities--tooltip-target="element" data-utilities--tooltip-placement-value="left" data-button-action="add" data-design-id="74165272" data-product-id="357" data-redirect-route="/users/sign_up">
 <div class='button__content'>
-<span class="teepublicon teepublicon--color-neutral-500 teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/heart_outline_neutral500-d0f44092d0f4b0ebf862fd41310088de645ae521b8525b1ab75997142f61e9a5.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="2161510810" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--color-neutral-500 teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/heart_outline_neutral500-d0f44092d0f4b0ebf862fd41310088de645ae521b8525b1ab75997142f61e9a5.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
 
 <div class="tp-tooltip tp-favorite-button__tooltip" data-utilities--tooltip-target="tooltip" role="tooltip">Create an account to favorite this design!
 <div class='tp-tooltip--arrow' data-popper-arrow=''></div>
@@ -443,12 +441,12 @@ Back
 <ul class='glide__slides'>
 <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026 by Hey siriusly' class='mockup jsProductMainImage' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg' data-pagespeed-url-hash="2136328801" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<img alt='SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026 by Hey siriusly' class='mockup jsProductMainImage' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg'>
 </picture>
 </li>
 <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg' data-pagespeed-url-hash="2136328801" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview jsProductMainImage' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg'>
 </picture>
 </li>
 </ul>
@@ -456,13 +454,13 @@ Back
 <div class='glide__arrows'>
 <button type="button" class="btn glide__arrow m-product-preview__glider-ctrl next jsGalleryGlideArrowNext tp-btn--medium" aria-label="Next Image" data-action="click-&gt;rudderstack--filter-clicked#track" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="next" tabindex="0">
 <div class='button__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--light-default"><img src="https://assets.teepublic.com/assets/teepublicons/arrow_right_neutral900-2a0eae4c27392751071e1b2af2fb4575bdba340ee7bc9d7dfdd54da1d291348a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="2716928611" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--light-default"><img src="https://assets.teepublic.com/assets/teepublicons/arrow_right_neutral900-2a0eae4c27392751071e1b2af2fb4575bdba340ee7bc9d7dfdd54da1d291348a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </div>
 
 </button><button type="button" class="btn glide__arrow m-product-preview__glider-ctrl prev jsGalleryGlideArrowPrev tp-btn--medium" aria-label="Previous Image" data-action="click-&gt;rudderstack--filter-clicked#track" data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4" data-filter-name="previous" tabindex="0">
 <div class='button__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--light-default"><img src="https://assets.teepublic.com/assets/teepublicons/arrow_right_neutral900-2a0eae4c27392751071e1b2af2fb4575bdba340ee7bc9d7dfdd54da1d291348a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="2716928611" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--light-default"><img src="https://assets.teepublic.com/assets/teepublicons/arrow_right_neutral900-2a0eae4c27392751071e1b2af2fb4575bdba340ee7bc9d7dfdd54da1d291348a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </div>
 
@@ -472,7 +470,7 @@ Back
 <a data-id="0" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-<img alt='SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026 by Hey siriusly' class='mockup' loading='lazy' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg' data-pagespeed-url-hash="2136328801" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<img alt='SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026 by Hey siriusly' class='mockup' loading='lazy' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg'>
 </picture>
 
 </span>
@@ -480,7 +478,7 @@ Back
 </a><a data-id="1" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
-<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg' data-pagespeed-url-hash="2136328801" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<img alt='George Kittle F Dallas Kittle by Hey siriusly' class='preview' loading='lazy' src='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg'>
 </picture>
 
 </span>
@@ -561,13 +559,13 @@ Style
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='size' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 Size
-<a aria-label="Size Chart" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="View Size Chart" data-href="javascript:void(0);" tabindex="0" href="javascript:void(0);" class="link m-cart-config__sizer-mobile-ctrl jsShowSliderSizechart link__cta link__cta--on-light link--small tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://assets.teepublic.com/assets/teepublicons/hanger_primary500-626f3e1864da84e8e4c6f756207b72ced5d4f2cb5912d613828546eb0bf8c478.svg" loading="lazy" height="16" width="16" aria_hidden="true" focusable="false" data-pagespeed-url-hash="2643366529" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<a aria-label="Size Chart" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="View Size Chart" data-href="javascript:void(0);" tabindex="0" href="javascript:void(0);" class="link m-cart-config__sizer-mobile-ctrl jsShowSliderSizechart link__cta link__cta--on-light link--small tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://assets.teepublic.com/assets/teepublicons/hanger_primary500-626f3e1864da84e8e4c6f756207b72ced5d4f2cb5912d613828546eb0bf8c478.svg" loading="lazy" height="16" width="16" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 View Size Chart
 
 </span>
 
-</a><a aria-label="Size Chart" data-canvas="T-Shirt" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="View Size Chart" data-href="javascript:void(0);" id="gtmSizeChart" tabindex="0" href="javascript:void(0);" class="link m-cart-config__sizechart-desktop-ctrl jsSizechartOpen link__cta link__cta--on-light link--small tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://assets.teepublic.com/assets/teepublicons/hanger_primary500-626f3e1864da84e8e4c6f756207b72ced5d4f2cb5912d613828546eb0bf8c478.svg" loading="lazy" height="16" width="16" aria_hidden="true" focusable="false" data-pagespeed-url-hash="2643366529" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+</a><a aria-label="Size Chart" data-canvas="T-Shirt" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="View Size Chart" data-href="javascript:void(0);" id="gtmSizeChart" tabindex="0" href="javascript:void(0);" class="link m-cart-config__sizechart-desktop-ctrl jsSizechartOpen link__cta link__cta--on-light link--small tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://assets.teepublic.com/assets/teepublicons/hanger_primary500-626f3e1864da84e8e4c6f756207b72ced5d4f2cb5912d613828546eb0bf8c478.svg" loading="lazy" height="16" width="16" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 View Size Chart
 
@@ -633,7 +631,7 @@ View Size Chart
 <div class='tp-text-note__body'>
 
 <p class='tp-text-note__text'>
-Get <span class="strong">Unlock 15%</span> OFF Instantly When You Buy <span class="strong">5+ SL999
+Get <span class="strong">Unlock 15%</span> OFF Instantly When You Buy <span class="strong">5+ SL888
 
 </p>
 
@@ -646,23 +644,23 @@ Get <span class="strong">Unlock 15%</span> OFF Instantly When You Buy <span clas
 <div class='m-design__buy-ctas'>
 <div class='m-design__cart-buy-now jsApplePayCheckout hidden apple-pay-button-with-text' data-action='click-&gt;utilities--ab-test#endTestClick click-&gt;rudderstack--checkout-clicked#track' data-checkout--checkout-target='applePayBuyNow' data-designId='74165272' data-rudderstack-checkout-type='apple-pay'></div>
 
-<button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='SL999' data-rudderstack-event-type='cta'>
-SL999
+<button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='SL888' data-rudderstack-event-type='cta'>
+SL888
 </button>
 
 </div>
 <div class='guarantee m-design__guarantee'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-  <img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" alt="SL999 Badge" loading="lazy" style="max-width:80px; height:auto; display:block;" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+  <img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" alt="SL888 Badge" loading="lazy" style="max-width:80px; height:auto; display:block;">
 </span>
 <div class='guarantee__text'>
 <p>
 We’ll make it perfect.
 <strong>No fees, no worries.</strong>
 </p>
-<a data-controller="rudderstack--link-clicked" data-rudderstack--link-clicked-location-value="pdp" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SL999" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" target="_blank" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link link__cta link__cta--on-light link--default">
+<a data-controller="rudderstack--link-clicked" data-rudderstack--link-clicked-location-value="pdp" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SL888" data-href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" target="_blank" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link link__cta link__cta--on-light link--default">
 <span class='link__content'>
-SL999
+SL888
 
 </span>
 
@@ -671,60 +669,56 @@ SL999
 
 <div class='m-design-details__description' data-controller='utilities--read-more'>
 <article>
-<h1>SL999 Mod APK (8.0) Download Gratis Aplikasi Slot Premium 2026</h1>
-<p>SL999 Mod APK versi 8.0 hadir sebagai solusi buat kamu yang ingin menikmati pengalaman bermain slot di Android dengan lebih praktis dan tanpa hambatan. Di tahun 2026, aplikasi ini semakin populer karena menawarkan performa ringan, akses cepat, dan fitur premium yang bisa langsung digunakan secara gratis.</p>
-<h2>Apa Itu SL999 Mod APK?</h2>
-<p>SL999 Mod APK adalah versi modifikasi dari aplikasi slot resmi yang dirancang untuk memberikan kemudahan akses bagi pengguna Android. Dengan versi ini, kamu bisa menikmati berbagai fitur premium tanpa perlu proses yang ribet.</p>
-<p>Aplikasi ini dikenal dengan sistem yang stabil serta tampilan yang user-friendly, sehingga cocok digunakan baik oleh pemula maupun pemain yang sudah berpengalaman.</p>
-<h2>Keunggulan SL999 Mod APK 8.0</h2>
+<h1>SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026</h1>
+<p>Buat lo yang lagi cari <strong>apk slot android terbaru</strong> yang ringan, stabil, dan gampang dipakai, <strong>SL888 APK versi 9.8</strong> bisa jadi pilihan yang lagi hype di tahun 2026. Banyak pemain mulai beralih ke versi APK karena lebih praktis dibanding buka lewat browser.</p>
+<p>Selain tampilannya simpel, aplikasi ini juga terkenal cepat saat login dan nggak bikin HP lemot. Cocok banget buat lo yang pengen main santai tanpa gangguan.</p>
+<h2>Apa Itu SL888 APK?</h2>
+<p><strong>SL888 APK</strong> adalah aplikasi slot android yang dirancang khusus supaya user bisa akses game dengan lebih cepat dan stabil. Dengan versi terbaru 9.8, performanya makin di-upgrade biar lebih ringan dan responsif di berbagai tipe HP.</p>
+<p>Banyak yang suka karena tampilannya clean, navigasinya gampang, dan nggak ribet saat pertama kali dipakai. Bahkan buat pemula pun langsung bisa ngerti cara mainnya.</p>
+<h2>Keunggulan SL888 APK Versi 9.8</h2>
 <ul>
-<li><strong>Performa Ringan:</strong> Aplikasi berjalan lancar tanpa lag di berbagai tipe smartphone.</li>
-<li><strong>Login Cepat:</strong> Sistem login dirancang simpel dan tidak memakan waktu lama.</li>
-<li><strong>Fitur Premium Gratis:</strong> Akses fitur lengkap tanpa biaya tambahan.</li>
-<li><strong>Server Stabil:</strong> Minim gangguan saat bermain, cocok untuk penggunaan jangka panjang.</li>
-<li><strong>Anti Blokir:</strong> Tetap bisa diakses tanpa kendala jaringan.</li>
+<li>📱 Ukuran ringan, cocok untuk semua HP Android</li>
+<li>⚡ Proses login cepat tanpa ribet</li>
+<li>🎮 Banyak pilihan game slot populer</li>
+<li>🔒 Sistem lebih stabil dan aman</li>
+<li>💡 Tampilan simpel &amp; user-friendly</li>
 </ul>
-<h2>Cara Download SL999 Mod APK di Android</h2>
-<p>Untuk mengunduh SL999 Mod APK versi terbaru 2026, kamu bisa mengikuti langkah berikut:</p>
+<p>Dengan keunggulan ini, nggak heran kalau <strong>SL888 APK terbaru</strong> jadi salah satu aplikasi slot yang paling dicari saat ini.</p>
+<h2>Cara Download dan Install SL888 APK</h2>
+<p>Buat lo yang belum pernah install APK manual, tenang aja, caranya gampang banget:</p>
 <ol>
-<li>Temukan link download terpercaya.</li>
-<li>Unduh file APK versi 8.0 ke perangkat Android kamu.</li>
-<li>Buka pengaturan dan aktifkan opsi <em>Sumber Tidak Dikenal</em>.</li>
-<li>Install file APK hingga selesai.</li>
-<li>Buka aplikasi dan lakukan login.</li>
+<li>Download file <strong>SL888 APK terbaru 9.8</strong> dari link resmi</li>
+<li>Buka pengaturan HP, aktifkan <em>Sumber Tidak Dikenal</em></li>
+<li>Install file APK yang sudah di-download</li>
+<li>Buka aplikasi dan login seperti biasa</li>
 </ol>
-<h2>Kenapa Memilih SL999 APK di Tahun 2026?</h2>
-<p>Di tengah banyaknya aplikasi slot yang beredar, SL999 tetap menjadi pilihan karena konsistensinya dalam memberikan pengalaman bermain yang stabil dan nyaman. Dengan update terbaru, aplikasi ini semakin optimal digunakan di berbagai perangkat Android.</p>
-<p>Selain itu, kemudahan akses dan desain yang sederhana membuat pengguna tidak perlu repot saat ingin mulai bermain kapan saja.</p>
-<h2>Tips Menggunakan Aplikasi Slot dengan Aman</h2>
-<ul>
-<li>Gunakan perangkat pribadi untuk keamanan data.</li>
-<li>Pastikan download dari sumber terpercaya.</li>
-<li>Hindari penggunaan aplikasi versi lama.</li>
-<li>Gunakan koneksi internet yang stabil.</li>
-</ul>
-<h2>Aplikasi Slot Premium 2026</h2>
-<p>SL999 Mod APK (8.0) menjadi salah satu aplikasi slot premium yang layak dicoba di tahun 2026. Dengan berbagai keunggulan seperti performa ringan, akses cepat, dan fitur lengkap, aplikasi ini memberikan pengalaman bermain yang lebih praktis dan efisien di perangkat Android.</p>
+<p>Dalam beberapa menit aja, lo udah bisa langsung akses aplikasi tanpa kendala.</p>
+<h2>Kenapa Banyak Dicari di 2026?</h2>
+<p>Di tahun 2026, banyak user mulai cari aplikasi yang <strong>ringan, cepat, dan nggak ribet</strong>. Nah, SL888 APK jawab kebutuhan itu semua.</p>
+<p>Selain performa yang stabil, aplikasi ini juga sering di-update biar tetap kompatibel dengan versi Android terbaru. Jadi user nggak perlu khawatir soal error atau lag.</p>
+<h2>Kesimpulan</h2>
+<p><strong>SL888 APK terbaru 9.8</strong> jadi salah satu aplikasi slot android yang layak dicoba di 2026. Dengan ukuran ringan, akses cepat, dan tampilan simpel, aplikasi ini cocok buat pemula maupun yang udah berpengalaman.</p>
+<p>Kalau lo lagi cari <strong>apk slot yang praktis dan stabil</strong>, SL888 bisa jadi opsi yang patut dipertimbangkan.</p>
 </article>
 <h2>Frequently Asked Question</h2>
 <div class="cqd-banner__container m-design-product-info--product-quality">
 
 <div class="faq-list">
         <div class='faq-item'>
-            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apa kelebihan apk slot SL999 versi 2026?</h3>
-            <p class='wt-line-height-tight wt-break-word wt-text-body'>SL999 slot apk versi 2026 menawarkan sistem yang lebih stabil, tampilan modern, dan akses online yang optimal.</p>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah SL888 app bisa digunakan secara online?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>SL888 app dirancang untuk penggunaan online agar fitur dapat berjalan secara real-time.</p>
         </div>
         <div class='faq-item'>
-            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apa itu SL999?</h3>
-            <p class='wt-line-height-tight wt-break-word wt-text-body'>SL999 adalah aplikasi hiburan digital yang dirancang untuk memberikan pengalaman penggunaan yang stabil dan nyaman di perangkat Android.</p>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apa kelebihan apk slot SL888 versi 2026?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>SL888 slot apk versi 2026 menawarkan sistem yang lebih stabil, tampilan modern, dan akses online yang optimal.</p>
         </div>
         <div class='faq-item'>
-            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah SL999 mendukung login online?</h3>
-            <p class='wt-line-height-tight wt-break-word wt-text-body'>Ya, SL999 mendukung login online untuk mengakses fitur yang tersedia di dalam aplikasi.</p>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Bagaimana cara download SL888 APK?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Pengguna dapat melakukan download SL888 APK melalui link resmi, lalu memasangnya di perangkat Android.</p>
         </div>
         <div class='faq-item'>
-            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Apakah SL999 app bisa digunakan secara online?</h3>
-            <p class='wt-line-height-tight wt-break-word wt-text-body'>SL999 app dirancang untuk penggunaan online agar fitur dapat berjalan secara real-time.</p>
+            <h3 class='wt-text-title-large wt-mr-xs-1 wt-text-black'>Bagaimana cara menggunakan SL888?</h3>
+            <p class='wt-line-height-tight wt-break-word wt-text-body'>Pengguna dapat mengunduh aplikasi SL888, memasangnya di perangkat Android, lalu mengakses fitur yang tersedia dengan mudah.</p>
         </div></div>
 </div>
 </div>
@@ -751,33 +745,33 @@ SL999
 <div class='m-design__ratings-service'>
 <div class='m-design__ratings-service-name'>Trustpilot Rating</div>
 <div class='m-design__ratings-service-stars'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_half_warning400-9c7cfa17d17f2c09f38dcb6a7a16abe5c16e8a8b4153c91472d7d8ac39798e4e.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1242138499" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_half_warning400-9c7cfa17d17f2c09f38dcb6a7a16abe5c16e8a8b4153c91472d7d8ac39798e4e.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
 </div>
 <div class='m-design__ratings-details'>4.9 out of 5</div>
 </div>
 <div class='m-design__ratings-service'>
 <div class='m-design__ratings-service-name'>Zendesk Satisfaction Rating</div>
 <div class='m-design__ratings-service-stars'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_half_warning400-9c7cfa17d17f2c09f38dcb6a7a16abe5c16e8a8b4153c91472d7d8ac39798e4e.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1242138499" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_half_warning400-9c7cfa17d17f2c09f38dcb6a7a16abe5c16e8a8b4153c91472d7d8ac39798e4e.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
 </div>
 <div class='m-design__ratings-details'>4.9 out of 5</div>
 </div>
 <div class='m-design__ratings-service'>
 <div class='m-design__ratings-service-name'>Google Customer Reviews</div>
 <div class='m-design__ratings-service-stars'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="604592292" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_half_warning400-9c7cfa17d17f2c09f38dcb6a7a16abe5c16e8a8b4153c91472d7d8ac39798e4e.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1242138499" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_warning400-140c727473c9c31e0f5d9ffc791a31dc3ba8dfccc44380702fd86fd805ef817d.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/star_half_warning400-9c7cfa17d17f2c09f38dcb6a7a16abe5c16e8a8b4153c91472d7d8ac39798e4e.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span>
 </div>
 <div class='m-design__ratings-details'>4.6 out of 5</div>
 </div>
@@ -800,7 +794,7 @@ Try another search.
 <input type="hidden" name="search_submission_data" value="{&quot;used_autocomplete&quot;:false,&quot;feedback&quot;:null,&quot;selection&quot;:null,&quot;search_input_id&quot;:&quot;jsAutoCompleteproductPage&quot;}" autocomplete="off"/>
 </div>
 <div class='form__actions form__actions--no-margin-mobile'>
-<button name="button" type="submit" class="btn btn--black btn--no-space query-submit gtmproductPageSearchButton "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/search_white-dfea27fafd855fea17a6c1835adec7b24d92ae54796f2c4251028698a51cc679.svg" loading="lazy" alt="Search" height="16" width="16" aria_hidden="false" focusable="true" data-pagespeed-url-hash="1343717268" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<button name="button" type="submit" class="btn btn--black btn--no-space query-submit gtmproductPageSearchButton "><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/search_white-dfea27fafd855fea17a6c1835adec7b24d92ae54796f2c4251028698a51cc679.svg" loading="lazy" alt="Search" height="16" width="16" aria_hidden="false" focusable="true"></span>
 </button></div>
 </div>
 </form>
@@ -817,14 +811,14 @@ Try another search.
 <picture class='m-design-product-info--product-quality-image'>
 <source srcset='https://assets.teepublic.com/assets/misc/quality-bbd87f5f7d7e01a131fc7d2f5da9e1d8ee462b7006cee1f3abaefb50459cf3aa.avif' type='image/avif'>
 <source srcset='https://assets.teepublic.com/assets/misc/quality-82ed70decf30530cfacab675c1abe90f87af861c6185313a378f7d22fb3a8905.webp' type='image/webp'>
-<img loading="lazy" src="https://assets.teepublic.com/assets/misc/quality-105f88ff211ef8ffbcf207c25f6af68585f8713382fdd7662c0ba7a0f50a105e.png" data-pagespeed-url-hash="3254249459" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<img loading="lazy" src="https://assets.teepublic.com/assets/misc/quality-105f88ff211ef8ffbcf207c25f6af68585f8713382fdd7662c0ba7a0f50a105e.png"/>
 </picture>
 </div>
 <div class='m-design-product-info--faq-container'>
 <div class='m-design-product-info--faqs' data-controller='rudderstack--filter-clicked' data-rudderstack--filter-clicked-location-value='pdp_faq'>
 <div class="tp-accordion" data-controller="utilities--reveal" data-utilities--reveal-hidden-class="tp-accordion__content--open" data-utilities--reveal-target="content"><button class='tp-accordion__button' data-action='click-&gt;utilities--reveal#toggle click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='faq' data-filter-option-label='What material is this item made of?' data-utilities--reveal-target='content'>
 <div class='tp-accordion__button-text'>What material is this item made of?</div>
-<span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1331659538" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
 <div class='tp-accordion__content' data-utilities--reveal-target='content'><span class='jsGarmentDescription2'>100% combed ringspun cotton. The perfect fabric for a graphic tee and the softest in the business. (Due to product availability, cotton type may vary for 2XL and 3XL sizes)</span>
 <a data-canvas="T-Shirt" class="link link link__cta link__cta--on-light link--default jsGarmentInfoModalShow link--1 link--default">
@@ -836,7 +830,7 @@ Learn More
 </div>
 </div><div class="tp-accordion" data-controller="utilities--reveal" data-utilities--reveal-hidden-class="tp-accordion__content--open" data-utilities--reveal-target="content"><button class='tp-accordion__button' data-action='click-&gt;utilities--reveal#toggle click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='faq' data-filter-option-label='What is the Return/Exchange policy?' data-utilities--reveal-target='content'>
 <div class='tp-accordion__button-text'>What is the Return/Exchange policy?</div>
-<span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1331659538" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
 <div class='tp-accordion__content' data-utilities--reveal-target='content'><p>We want you to love your order! If for any reason you don't, let us&#32;know and we’ll make things right.<a href=https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
 
@@ -857,49 +851,49 @@ Learn More
 <nav class='m-design__additional-info-list'>
 <div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999
+SL888
 </span>
 
 </a>
 <a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999 APK
+SL888 APK
 </span>
 
 </a>
 <a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999 LOGIN
+SL888 LOGIN
 </span>
 
 </a>
 <a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999 DAFTAR
+SL888 DAFTAR
 </span>
 
 </a>
 <a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999 LINK
+SL888 LINK
 </span>
 
 </a>
 <a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999 RESMI
+SL888 RESMI
 </span>
 
 </a>
 
 <a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999 LINK ALTERNATIF</span>
+SL888 LINK ALTERNATIF</span>
 
 </a>
 <a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SL999 DOWNLOAD
+SL888 DOWNLOAD
 </span>
 </a>
 
@@ -919,7 +913,7 @@ Share this design:
 <li>
 <a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://twitter.com/share?url=https%3A%2F%2Ftee.pub%2Flic%2FihGCFHpThr8&amp;text=Check out this awesome &#39;George+Kittle+F+Dallas+Kittle&#39; design on @TeePublic!" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
 <span class='link__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="836946174" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </span>
 
@@ -927,7 +921,7 @@ Share this design:
 <li>
 <a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://www.facebook.com/sharer/sharer.php?u=https://tee.pub/lic/ihGCFHpThr8" class="link gtmFbProductShare facebook link--1 link--default">
 <span class='link__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="2768871394" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </span>
 
@@ -935,7 +929,7 @@ Share this design:
 <li>
 <a aria-label="Share to Linktree" target="_blank" href="https://linktr.ee/admin?url=https://tee.pub/lic/ihGCFHpThr8&amp;title=SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026&amp;action=create-link&amp;utm_source=addthisbutton&amp;utm_channel=TeePublic" class="link gtmLinktreeProductShare linktree link--1 link--default">
 <span class='link__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1727486017" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </span>
 
@@ -943,7 +937,7 @@ Share this design:
 <li>
 <a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftee.pub%2Flic%2FihGCFHpThr8&amp;media=https%3A%2F%2Fimages.teepublic.com%2Fderived%2Fproduction%2Fdesigns%2F74165272_0%2F1744337506%2Fi_p%3Ac_c62b29%2Cs_630%2Cq_90.jpg&amp;description=Check+out+this+awesome+%27George%2BKittle%2BF%2BDallas%2BKittle%27+design+on+%40TeePublic%21" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
 <span class='link__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="164197598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </span>
 
@@ -951,7 +945,7 @@ Share this design:
 <li>
 <a aria-label="Share to Reddit" target="_blank" href="http://www.reddit.com/submit?url=https%3A%2F%2Ftee.pub%2Flic%2FihGCFHpThr8" class="link gtmRedditProductShare reddit link--1 link--default">
 <span class='link__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="3679887353" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </span>
 
@@ -959,7 +953,7 @@ Share this design:
 <li>
 <a aria-label="Share to Tumblr" target="_blank" href="https://www.tumblr.com/widgets/share/tool?posttype=link&amp;canonicalUrl=https%3A%2F%2Fwww.teepublic.com%2F&amp;content=https%3A%2F%2Ftee.pub%2Flic%2FihGCFHpThr8&amp;caption=Check out this awesome &#39;George+Kittle+F+Dallas+Kittle&#39; design on @TeePublic!" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
 <span class='link__content'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="283062439" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
 </span>
 
@@ -1014,10 +1008,10 @@ Share this design:
 <div class="m-footer"><div class="m-trustpilot-bar"><a target="_blank" href="https://www.trustpilot.com/review/www.teepublic.com" class="link link--1 link--default">
 <span class='link__content'>
 <figure class='m-footer__trustpilot-image m-footer__trustpilot-mobile'>
-<img loading="lazy" alt="View TeePublic reviews on Trustpilot." src="https://assets.teepublic.com/assets/vendors/trustpilot_mobile-e60b09ffbab08a2d7f2bd55d0a0b073a8991b9e080677f2431e5b5c24bac4f51.png" data-pagespeed-url-hash="2182845194" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<img loading="lazy" alt="View TeePublic reviews on Trustpilot." src="https://assets.teepublic.com/assets/vendors/trustpilot_mobile-e60b09ffbab08a2d7f2bd55d0a0b073a8991b9e080677f2431e5b5c24bac4f51.png"/>
 </figure>
 <figure class='m-footer__trustpilot-image m-footer__trustpilot-desktop'>
-<img loading="lazy" alt="View TeePublic reviews on Trustpilot." src="https://assets.teepublic.com/assets/vendors/trustpilot_desktop-9723522af2d213ec514dc25b3223a75a28b98a96287000fa51cea10bc533ff48.png" data-pagespeed-url-hash="956913260" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<img loading="lazy" alt="View TeePublic reviews on Trustpilot." src="https://assets.teepublic.com/assets/vendors/trustpilot_desktop-9723522af2d213ec514dc25b3223a75a28b98a96287000fa51cea10bc533ff48.png"/>
 </figure>
 
 </span>
@@ -1078,7 +1072,7 @@ There was an issue subscribing, try again.
 <div class='m-footer__trusted-badges'>
 <figure class='m-footer__guarantee-image'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
-  <img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" alt="SL999" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+  <img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" alt="SL888" style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;"/>
 </span>
 </figure>
 <div class='m-footer__trusted-text'>
@@ -1093,7 +1087,7 @@ Don't love it? We'll fix it. For free.
 <p class='m-footer__guarantee-link'>
 <a target="_blank" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" class="link link__cta link__cta--on-dark link--default">
 <span class='link__content'>
-SL999
+SL888
 </span>
 
 </a>
@@ -1320,14 +1314,14 @@ TeePublic Blog
 <div class='m-footer-payments-bbb'>
 <div class='m-footer__payment-methods-images'>
 <figure>
-<img loading="lazy" alt="We Accept Visa, Mastercard, American Express, Discover, PayPal, and Apple Pay" src="https://assets.teepublic.com/assets/vendors/payment-methods-domestic-e3efe0cf0b9636c5ed76d563d87735104df12cf15afda7d20911d95bdbf6e360.png" data-pagespeed-url-hash="120636255" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<img loading="lazy" alt="We Accept Visa, Mastercard, American Express, Discover, PayPal, and Apple Pay" src="https://assets.teepublic.com/assets/vendors/payment-methods-domestic-e3efe0cf0b9636c5ed76d563d87735104df12cf15afda7d20911d95bdbf6e360.png"/>
 </figure>
 </div>
 <div class='m-footer__trust-images'>
 <div class='m-footer__bbb'>
 <a target="_blank" href="https://www.bbb.org/us/ny/new-york/profile/online-retailer/teepublic-0121-168669" class="link link--1 link--default">
 <span class='link__content'>
-<img loading="lazy" alt="Better Business Bureau Accredited Business" src="https://assets.teepublic.com/assets/vendors/bbb-f6c79431393cee623e1d7db1c8d5623312fe5c7de4f48a47d04fb4b0c435c5c0.png" data-pagespeed-url-hash="3166881745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+<img loading="lazy" alt="Better Business Bureau Accredited Business" src="https://assets.teepublic.com/assets/vendors/bbb-f6c79431393cee623e1d7db1c8d5623312fe5c7de4f48a47d04fb4b0c435c5c0.png"/>
 
 </span>
 
@@ -1347,7 +1341,7 @@ TeePublic Blog
 © TP Apparel LLC 2012 - 2025
 </div>
 <div class='m-footer__legal-bar-header-browse-preferences'>
-<button type="button" class="btn jsChangeIntlSettings btn--no-space tp-btn--medium btn--no-background btn--cta btn--cta--on-dark tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/globe_primary400-4459871cc25767dbb110c87407d9654283057ec0715e24b8bfb9e0f0aad7cfe9.svg" loading="lazy" height="16" width="16" aria_hidden="true" focusable="false" data-pagespeed-url-hash="1111468421" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<button type="button" class="btn jsChangeIntlSettings btn--no-space tp-btn--medium btn--no-background btn--cta btn--cta--on-dark tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/globe_primary400-4459871cc25767dbb110c87407d9654283057ec0715e24b8bfb9e0f0aad7cfe9.svg" loading="lazy" height="16" width="16" aria_hidden="true" focusable="false"></span>
 <div class='button__content'>
 United States - $ USD
 
@@ -1393,7 +1387,7 @@ Terms
 
 <menu class="drawer m-tray m-tray-account jsHeaderTray" data-controller="containers--drawer-component rudderstack--link-clicked" data-rudderstack--link-clicked-location-value="nav-account" data-rudderstack--link-clicked-account-type-value="guest" data-rudderstack--link-clicked-state-value="guest" data-containers--drawer-component-target="content"><div class="drawer__backdrop" data-action="click-&gt;containers--drawer-component#close"></div>
 <div class='drawer__wrapper drawer__wrapper--right'>
-<section class="drawer__component drawer--dark m-tray-account__body"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true" data-pagespeed-url-hash="2653125294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<section class="drawer__component drawer--dark m-tray-account__body"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true"></span>
 <div class='button__content'>
 
 </div>
@@ -1401,7 +1395,7 @@ Terms
 </button>
 <div class='drawer__header-container'>
 <div class="drawer__header m-tray-account__header"><div class='m-tray-account__header-user'>
-<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/user_primary400-cbe4923027a0625a846acda949725368bbe52ac03f2bde950bf4891a338de0a5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false" data-pagespeed-url-hash="866874316" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/user_primary400-cbe4923027a0625a846acda949725368bbe52ac03f2bde950bf4891a338de0a5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 <div class='m-tray-account__header-text'>Welcome Guest!</div>
 </div>
 <div class='m-tray-account__header-action'>
@@ -1468,7 +1462,7 @@ Create Account
 </menu>
 <menu class="drawer m-tray m-tray-cart jsHeaderTray jsCartTray" data-controller="rudderstack--link-clicked rudderstack--checkout-clicked containers--drawer-component navigation--cart" data-rudderstack--link-clicked-location-value="nav-cart" data-rudderstack--checkout-clicked-cart-id-value="{&quot;public_id&quot;:&quot;9a8c68d58aaa0c110ea9655af8a790a4&quot;}" data-rudderstack--checkout-clicked-location-value="nav-cart" data-rudderstack--checkout-clicked-products-value="[]" data-rudderstack--checkout-clicked-request-action-value="show" data-rudderstack--checkout-clicked-request-controller-value="product_pages" data-rudderstack--checkout-clicked-state-value="empty" data-rudderstack--checkout-clicked-currency-code-value="USD" data-rudderstack--checkout-clicked-discount-usd-value="0.0" data-rudderstack--checkout-clicked-on-sale-savings-usd-value="0.0" data-rudderstack--checkout-clicked-product-revenue-usd-value="0.0" data-navigation--cart-target="cartContent" data-navigation--cart-quantity-value="0" data-navigation--cart-lazyload-path-value="/lazyload_cart_tray" data-navigation--cart-fire-request-value="false" data-rudderstack--link-clicked-state-value="empty" data-containers--drawer-component-target="content"><div class="drawer__backdrop" data-action="click-&gt;containers--drawer-component#close"></div>
 <div class='drawer__wrapper drawer__wrapper--right'>
-<section class="drawer__component drawer--light m-tray-cart__wrapper"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true" data-pagespeed-url-hash="2653125294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<section class="drawer__component drawer--light m-tray-cart__wrapper"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true"></span>
 <div class='button__content'>
 
 </div>
@@ -1582,7 +1576,7 @@ Shop All Designs
 </menu>
 <menu class="drawer m-tray m-tray-shop jsHeaderTray jsDrawerPrimary" data-controller="containers--drawer-component navigation--tray-trigger rudderstack--filter-clicked rudderstack--link-clicked" data-navigation--tray-trigger-containers--drawer-component-outlet=".jsSecondaryShopTray" data-rudderstack--filter-clicked-location-value="nav-shop-l1" data-rudderstack--link-clicked-location-value="nav-shop-l1" data-containers--drawer-component-target="content"><div class="drawer__backdrop" data-action="click-&gt;navigation--tray-trigger#closeAllOutletTrays click-&gt;containers--drawer-component#close"></div>
 <div class='drawer__wrapper drawer__wrapper--left'>
-<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-designs" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true" data-pagespeed-url-hash="2653125294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-designs" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true"></span>
 <div class='button__content'>
 
 </div>
@@ -1695,7 +1689,7 @@ Back To Menu
 
 </button></div>
 </div>
-<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-apparel" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true" data-pagespeed-url-hash="2653125294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-apparel" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true"></span>
 <div class='button__content'>
 
 </div>
@@ -1757,7 +1751,7 @@ Back To Menu
 
 </button></div>
 </div>
-<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-accessories" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true" data-pagespeed-url-hash="2653125294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-accessories" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true"></span>
 <div class='button__content'>
 
 </div>
@@ -1802,7 +1796,7 @@ Back To Menu
 
 </button></div>
 </div>
-<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-home-goods" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true" data-pagespeed-url-hash="2653125294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<div class="drawer__component drawer--light m-tray-shop-secondary jsSecondaryShopTray m-tray-shop-home-goods" data-containers--drawer-component-target="content" data-containers--drawer-component-containers--drawer-component-outlet=".jsDrawerPrimary" data-controller="containers--drawer-component rudderstack--link-clicked rudderstack--filter-clicked" data-rudderstack--link-clicked-location-value="nav-shop-l2" data-rudderstack--filter-clicked-location-value="nav-shop-l2"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true"></span>
 <div class='button__content'>
 
 </div>
@@ -1838,7 +1832,7 @@ Back To Menu
 
 </button></div>
 </div>
-<section class="drawer__component drawer--dark m-tray-shop__body"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer" data-containers--drawer-component-target="primaryDrawerCloseButton"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true" data-pagespeed-url-hash="2653125294" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></span>
+<section class="drawer__component drawer--dark m-tray-shop__body"><button type="button" class="btn drawer__close-button tp-btn--medium btn--no-background tp-btn--icon" data-action="click-&gt;containers--drawer-component#closePrimaryDrawer" data-containers--drawer-component-target="primaryDrawerCloseButton"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://assets.teepublic.com/assets/teepublicons/x_close_neutral400-c1926221e50e7f6686d23ac344405449054e43f23d0f3306f15d8dfd546f999a.svg" loading="lazy" alt="Close Drawer" height="12" width="12" aria_hidden="false" focusable="true"></span>
 <div class='button__content'>
 
 </div>
@@ -1851,7 +1845,7 @@ Back To Menu
 <span class='link__content'>
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" type="image/webp">
-  <img class="vc-header-logo__image" src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SL999 Logo" data-pagespeed-url-hash="1065528416" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+  <img class="vc-header-logo__image" src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" style="max-width:150px; height:auto; display:block; margin:0 auto;" alt="SL888 Logo">
 </picture>
 
 
@@ -2295,7 +2289,7 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 					<button id="close-button">×</button>
 				</div>
 				<a href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/" target="_blank" id="popup-link">
-				<img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg" alt="SL999" data-pagespeed-url-hash="2136328801" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+				<img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg" alt="SL888">
 				</a>
 			</div>
 		</div>
