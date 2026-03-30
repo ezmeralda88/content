@@ -37,7 +37,7 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 <meta property="og:url" content="https://bipa.oia.unmul.ac.id/shop/">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/rp99.jpg">
 <meta property="og:site_name" content="RP99">
-<meta property="product:price:amount" content="23.00">
+<meta property="product:price:amount" content="10.00">
 <meta property="product:brand" content="RP99">
 <meta property="product:price:currency" content="USD">
 <meta property="product:availability" content="in stock">
@@ -271,13 +271,13 @@ Please enable Javascript and return here.
   "@type":       "Product",
   "name":        "RP99 APK (9.0) Aplikasi Slot Optimal Untuk Cuan Maksimal 2026",
   "description": "Unduh RP99 APK 9.0 2026! Aplikasi Slot dengan sistem yang stabil, ringan, dan peluang cuan maksimal setiap hari. Klik untuk download resmi",
-  "category":    "T-Shirt",
+  "category":    "Game",
   "url":         "https://bipa.oia.unmul.ac.id/shop/",
-  "sku":         "74165272D1V19G79A8C",
+  "sku":         "74165RP9919G79A8C",
   "image":       {
                     "@type": "ImageObject",
                     "url": "https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/rp99.jpg",
-                    "thumbnail": "https://res.cloudinary.com/teepublic/image/private/s--MTEwbo-g--/t_Preview/b_rgb:c62b29,c_limit,f_jpg,h_76,q_90,w_76/v1744337506/production/designs/74165272_0.jpg"
+                    "thumbnail": "https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/rp99.jpg"
   },
   "offers":      {
     "@type":         "Offer",
