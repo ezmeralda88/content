@@ -9,6 +9,11 @@
 <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp">
 <link rel="canonical" href="https://bipa.oia.unmul.ac.id/category/new-2/">
 <link rel="amphtml" href="https://ngantuk-sekali-kawannn.pages.dev/"/>
+<link rel="alternate" hreflang="id-id" href="https://ngantuk-sekali-kawannn.pages.dev/"/>
+<link rel="alternate" href="https://bipa.oia.unmul.ac.id/category/new-2/"/>
+<link rel="alternate" hreflang="id" href="https://ngantuk-sekali-kawannn.pages.dev/"/>
+<link rel="alternate" hreflang="en" href="https://bipa.oia.unmul.ac.id/category/new-2/"/>
+<link rel="alternate" hreflang="x-default" href="https://bipa.oia.unmul.ac.id/category/new-2/"/>
 <link as='image' href='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/vm777-apk-2026.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
