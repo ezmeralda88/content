@@ -9,6 +9,11 @@
 <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp">
 <link rel="canonical" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/">
 <link rel="amphtml" href="https://diam-aja-salah-kawan.pages.dev/"/>
+<link rel="alternate" hreflang="id-id" href="https://diam-aja-salah-kawan.pages.dev/"/>
+<link rel="alternate" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/"/>
+<link rel="alternate" hreflang="id" href="https://diam-aja-salah-kawan.pages.dev/"/>
+<link rel="alternate" hreflang="en" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/"/>
+<link rel="alternate" hreflang="x-default" href="https://bipa.oia.unmul.ac.id/announcement/universitas-mulawarman-scholarship-ums-for-bipa-program/"/>
 <link as='image' href='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
