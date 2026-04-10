@@ -359,7 +359,7 @@ Please enable Javascript and return here.
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{TITLE}"
+          "name": "KM777"
         }
       ]
     }
