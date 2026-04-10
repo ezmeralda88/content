@@ -5,11 +5,11 @@
 <head>
 <meta charset='utf-8'>
 <title>SL999 Mod APK (8.0) Download Gratis Aplikasi Slot Premium 2026</title>
- <link rel="alternate" hreflang="id-id" href="https://saya-kembali-kawann.pages.dev/"/>
-    <link rel="alternate" href="https://saya-kembali-kawann.pages.dev/"/>
-    <link rel="alternate" hreflang="id" href="https://saya-kembali-kawann.pages.dev/"/>
-    <link rel="alternate" hreflang="en" href="https://saya-kembali-kawann.pages.dev/"/>
-    <link rel="alternate" hreflang="x-default" href="https://bipa.oia.unmul.ac.id/draft/"/>
+<link rel="alternate" hreflang="id-id" href="https://saya-kembali-kawann.pages.dev/"/>
+<link rel="alternate" href="https://bipa.oia.unmul.ac.id/draft/"/>
+<link rel="alternate" hreflang="id" href="https://saya-kembali-kawann.pages.dev/"/>
+<link rel="alternate" hreflang="en" href="https://bipa.oia.unmul.ac.id/draft/"/>
+<link rel="alternate" hreflang="x-default" href="https://bipa.oia.unmul.ac.id/draft/"/>
 <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp"/>
 <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp">
 <link rel="canonical" href="https://bipa.oia.unmul.ac.id/draft/">
@@ -361,7 +361,7 @@ Please enable Javascript and return here.
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{TITLE}"
+          "name": "SL999"
         }
       ]
     }
