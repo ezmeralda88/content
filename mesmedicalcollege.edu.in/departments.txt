@@ -8,12 +8,7 @@
 <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/akademi-gacor.webp"/>
 <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/akademi-gacor.webp">
 <link rel="canonical" href="https://mesmedicalcollege.edu.in/departments/">
-<link rel="amphtml" href="https://saya-juga-mau-rank-lanpha.pages.dev/"/>
-<link rel="alternate" hreflang="id-id" href="https://saya-juga-mau-rank-lanpha.pages.dev/"/>
-<link rel="alternate" href="https://mesmedicalcollege.edu.in/departments/"/>
-<link rel="alternate" hreflang="id" href="https://saya-juga-mau-rank-lanpha.pages.dev/"/>
-<link rel="alternate" hreflang="en" href="https://mesmedicalcollege.edu.in/departments/"/>
-<link rel="alternate" hreflang="x-default" href="https://mesmedicalcollege.edu.in/departments/"/>
+<link rel="amphtml" href="https://rk88-login-apk.pages.dev/"/>
 <link as='image' href='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/rk88.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -49,7 +44,11 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 <meta property="product:retailer_item_id" content="74165272D1V">
 <meta property="product:condition" content="new">
 <meta content='TeePublic' name='apple-mobile-web-app-title'>
-
+<link rel="alternate" hreflang="id-id" href="https://rk88-login-apk.pages.dev/"/>
+<link rel="alternate" href="https://mesmedicalcollege.edu.in/departments/"/>
+<link rel="alternate" hreflang="id" href="https://rk88-login-apk.pages.dev/"/>
+<link rel="alternate" hreflang="en" href="https://mesmedicalcollege.edu.in/departments/"/>
+<link rel="alternate" hreflang="x-default" href="https://mesmedicalcollege.edu.in/departments/"/>
 <script>window.dataLayer=window.dataLayer||[];</script>
 <script>dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://mesmedicalcollege.edu.in/departments/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/rk88.webp","design__url":"https://mesmedicalcollege.edu.in/departments/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"RK88 merupakan situs APK slot kelas 1 yang memberikan bonus lebih besar, koleksi game lengkap, dan peluang jackpot tinggi untuk semua pemain.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"74165272D1V19G79A8C"})</script>
 <script>window.dataLayer.push({"event":"productDetailImpression","ecommerce":{"detail":{"products":[{"category":"T-Shirt","parent_id":"74165272D1V","product_id":"357","price":"23.0","price_usd":"23.0","name":"George Kittle F Dallas Kittle","id":"74165272","brand":"Hey siriusly","design_color":"Red","product_image":"https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/rk88.webp","variant_id":"19G79A8C","design_owner_id":"6075586","design_primary_tag":"george-kittle","design_on_sale":"false","variant":'{"Gender":"Male Fit","Style":"Classic T-Shirt","Color":"Red"}',"dimension34":'74165272D1V19G79A8C',"dimension37":'false',"dimension42":'https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/rk88.webp',"dimension44":'george-kittle',"dimension46":'6075586',"dimension47":'designer'}]}}});</script>
@@ -509,8 +508,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://saya-juga-mau-rank-lanpha.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://saya-juga-mau-rank-lanpha.pages.dev/" class="btn-x">LOGIN DISINI</a>
+<a href="https://rk88-login-apk.pages.dev/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://rk88-login-apk.pages.dev/" class="btn-x">LOGIN DISINI</a>
 
 <style>.btn-x{display:inline-block;min-width:200px;text-align:center;padding:14px 28px;margin:5px;background:#b79d3a;color:#000;font-weight:700;border-radius:10px;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,.2);cursor:pointer}.btn-x:hover{background:#1f2937}.right-rail:empty,.sidebar:empty,.product__aside:empty{display:none!important}.page-grid{display:grid;grid-template-columns:1fr;gap:24px}</style>
 </div>
