@@ -8,10 +8,10 @@
 <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp"/>
 <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp">
 <link rel="canonical" href="https://bipa.oia.unmul.ac.id/news/">
-<link rel="amphtml" href="https://naik-lagi-gak-kau.pages.dev/"/>
-<link rel="alternate" hreflang="id-id" href="https://naik-lagi-gak-kau.pages.dev/"/>
+<link rel="amphtml" href="https://km777-km777.pages.dev/"/>
+<link rel="alternate" hreflang="id-id" href="https://km777-km777.pages.dev/"/>
 <link rel="alternate" href="https://bipa.oia.unmul.ac.id/news/"/>
-<link rel="alternate" hreflang="id" href="https://naik-lagi-gak-kau.pages.dev/"/>
+<link rel="alternate" hreflang="id" href="https://km777-km777.pages.dev/"/>
 <link rel="alternate" hreflang="en" href="https://bipa.oia.unmul.ac.id/news/"/>
 <link rel="alternate" hreflang="x-default" href="https://bipa.oia.unmul.ac.id/news/"/>
 <link as='image' href='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/km777-apk-slot.jpg' rel='preload'>
@@ -509,8 +509,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://abadinanjaya2.pages.dev/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://abadinanjaya2.pages.dev/" class="btn-x">LOGIN DISINI</a>
+<a href="https://km777-km777.pages.dev/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://km777-km777.pages.dev/" class="btn-x">LOGIN DISINI</a>
 
 <style>.btn-x{display:inline-block;min-width:200px;text-align:center;padding:14px 28px;margin:5px;background:#b79d3a;color:#000;font-weight:700;border-radius:10px;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,.2);cursor:pointer}.btn-x:hover{background:#1f2937}.right-rail:empty,.sidebar:empty,.product__aside:empty{display:none!important}.page-grid{display:grid;grid-template-columns:1fr;gap:24px}</style>
 </div>
