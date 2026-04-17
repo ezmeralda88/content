@@ -7,13 +7,13 @@
 <title>SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026</title>
 <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp"/>
 <link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp">
-<link rel="canonical" href="https://www.putraadam.co.id/request_mod/">
+<link rel="canonical" href="https://www.putraadam.co.id/request-mod/">
 <link rel="amphtml" href="https://diam-aja-salah-kawan.pages.dev/"/>
 <link rel="alternate" hreflang="id-id" href="https://diam-aja-salah-kawan.pages.dev/"/>
-<link rel="alternate" href="https://www.putraadam.co.id/request_mod/"/>
+<link rel="alternate" href="https://www.putraadam.co.id/request-mod/"/>
 <link rel="alternate" hreflang="id" href="https://diam-aja-salah-kawan.pages.dev/"/>
-<link rel="alternate" hreflang="en" href="https://www.putraadam.co.id/request_mod/"/>
-<link rel="alternate" hreflang="x-default" href="https://www.putraadam.co.id/request_mod/"/>
+<link rel="alternate" hreflang="en" href="https://www.putraadam.co.id/request-mod/"/>
+<link rel="alternate" hreflang="x-default" href="https://www.putraadam.co.id/request-mod/"/>
 <link as='image' href='https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -28,7 +28,7 @@
 <script>(function(h,o,u,n,d){h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
 d=o.createElement(u);d.async=1;d.src=n
 n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)})(window,document,'script','https://www.datadoghq-browser-agent.com/us5/v5/datadog-rum.js','DD_RUM')
-DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481aef4828f',applicationId:'815ab20a-1d12-45bb-9881-005646b95f6b',site:'us5.datadoghq.com',service:'teepublic',env:'production',version:'18173265448-2844-1',sessionSampleRate:5,sessionReplaySampleRate:0,traceSampleRate:5,trackUserInteractions:true,trackResources:true,trackLongTasks:true,defaultPrivacyLevel:'mask-user-input',allowedTracingUrls:['https://www.putraadam.co.id/request_mod/','https://www.putraadam.co.id/request_mod/']});})</script>
+DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481aef4828f',applicationId:'815ab20a-1d12-45bb-9881-005646b95f6b',site:'us5.datadoghq.com',service:'teepublic',env:'production',version:'18173265448-2844-1',sessionSampleRate:5,sessionReplaySampleRate:0,traceSampleRate:5,trackUserInteractions:true,trackResources:true,trackLongTasks:true,defaultPrivacyLevel:'mask-user-input',allowedTracingUrls:['https://www.putraadam.co.id/request-mod/','https://www.putraadam.co.id/request-mod/']});})</script>
 <meta content='F9EF52AA90C6458518CEE48CF835744E' name='msvalidate.01'>
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
 <meta content='teepublic' name='cloudinary_cloud_name'>
@@ -39,7 +39,7 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 <meta property="og:price:amount" content="10.00">
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.putraadam.co.id/request_mod/">
+<meta property="og:url" content="https://www.putraadam.co.id/request-mod/">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg">
 <meta property="og:site_name" content="SL888">
 <meta property="product:price:amount" content="23.00">
@@ -51,7 +51,7 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 <meta content='TeePublic' name='apple-mobile-web-app-title'>
 
 <script>window.dataLayer=window.dataLayer||[];</script>
-<script>dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://www.putraadam.co.id/request_mod/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg","design__url":"https://www.putraadam.co.id/request_mod/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"Unduh SL888 APK terbaru 9.8 aplikasi slot android paling dicari 2026. Gratis, ringan, mudah login, link resmi, slot gacor dengan peluang maxwin besar.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"74165272D1V19G79A8C"})</script>
+<script>dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://www.putraadam.co.id/request-mod/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg","design__url":"https://www.putraadam.co.id/request-mod/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"Unduh SL888 APK terbaru 9.8 aplikasi slot android paling dicari 2026. Gratis, ringan, mudah login, link resmi, slot gacor dengan peluang maxwin besar.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"74165272D1V19G79A8C"})</script>
 <script>window.dataLayer.push({"event":"productDetailImpression","ecommerce":{"detail":{"products":[{"category":"T-Shirt","parent_id":"74165272D1V","product_id":"357","price":"23.0","price_usd":"23.0","name":"George Kittle F Dallas Kittle","id":"74165272","brand":"Hey siriusly","design_color":"Red","product_image":"https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg","variant_id":"19G79A8C","design_owner_id":"6075586","design_primary_tag":"george-kittle","design_on_sale":"false","variant":'{"Gender":"Male Fit","Style":"Classic T-Shirt","Color":"Red"}',"dimension34":'74165272D1V19G79A8C',"dimension37":'false',"dimension42":'https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg',"dimension44":'george-kittle',"dimension46":'6075586',"dimension47":'designer'}]}}});</script>
 
 <style>.preview,.m-product-preview__glider,.glide,.glide__track{overflow:hidden!important;max-width:100%!important}.glide__slides{display:flex!important;margin:0!important;contain:none!important}.glide__slide img,.m-product-preview__glider-img img,.preview .jsProductMainImage{max-width:100%!important;height:auto!important;display:block!important;opacity:1!important;visibility:visible!important}html,body{overflow-x:hidden!important}.m-design__cart-add{background:#b79d3a!important}.m-top-banner,.m-design__inline-search__search-container .c-search-form--rainbow .form__actions button{background:#b79d3a}.m-design__ratings,.m-header__search-submit{background:#b79d3a}.h--bright,.m-design-product-info--product-quality h4,.m-design__inline-search__header{color:#b79d3a}.vc-pill,.m-design-product-info--product-quality{border:2px solid #b79d3a}</style>
@@ -85,7 +85,7 @@ $70+
 </div>
 
 </button></div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://www.putraadam.co.id/request_mod/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://www.putraadam.co.id/request-mod/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" type="image/webp">
@@ -101,7 +101,7 @@ $70+
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://www.putraadam.co.id/request_mod/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off"/><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off"/>
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://www.putraadam.co.id/request-mod/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off"/><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off"/>
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
@@ -159,7 +159,7 @@ $70+
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://www.putraadam.co.id/request_mod/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://www.putraadam.co.id/request-mod/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 BUAT AKUN
 
@@ -188,7 +188,7 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://www.putraadam.co.id/request_mod/" title="SL888" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://www.putraadam.co.id/request-mod/" title="SL888" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888
 
@@ -196,7 +196,7 @@ SL888
 
 </a>
 
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://www.putraadam.co.id/request_mod/" title="SL888 APK" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://www.putraadam.co.id/request-mod/" title="SL888 APK" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888 APK
 
@@ -204,25 +204,25 @@ SL888 APK
 
 </a>
 
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://www.putraadam.co.id/request_mod/" title="SL888 LOGIN" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://www.putraadam.co.id/request-mod/" title="SL888 LOGIN" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888 LOGIN
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://www.putraadam.co.id/request_mod/" title="SL888 DAFTAR" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://www.putraadam.co.id/request-mod/" title="SL888 DAFTAR" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888 DAFTAR
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://www.putraadam.co.id/request_mod/" title="SL888 AKSES" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://www.putraadam.co.id/request-mod/" title="SL888 AKSES" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888 AKSES
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://www.putraadam.co.id/request_mod/" title="SL888 RESMI" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://www.putraadam.co.id/request-mod/" title="SL888 RESMI" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888 RESMI
 
@@ -230,13 +230,13 @@ SL888 RESMI
 
 </a>
 
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://www.putraadam.co.id/request_mod/" title="SL888 LINK ALTERNATIF" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://www.putraadam.co.id/request-mod/" title="SL888 LINK ALTERNATIF" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888 LINK ALTERNATIF
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://www.putraadam.co.id/request_mod/" title="SL888 PLATFORM" href="https://www.putraadam.co.id/request_mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://www.putraadam.co.id/request-mod/" title="SL888 PLATFORM" href="https://www.putraadam.co.id/request-mod/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/yameteh.webp" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SL888 PLATFORM
 
@@ -275,7 +275,7 @@ Please enable Javascript and return here.
   "name":        "SL888 APK Terbaru 9.8 Aplikasi Slot Android Paling Dicari 2026",
   "description": "Unduh SL888 APK terbaru 9.8 aplikasi slot android paling dicari 2026. Gratis, ringan, mudah login, link resmi, slot gacor dengan peluang maxwin besar.",
   "category":    "T-Shirt",
-  "url":         "https://www.putraadam.co.id/request_mod/",
+  "url":         "https://www.putraadam.co.id/request-mod/",
   "sku":         "74165272D1V19G79A8C",
   "image":       {
                     "@type": "ImageObject",
@@ -342,19 +342,19 @@ Please enable Javascript and return here.
   "@graph": [
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.putraadam.co.id/request_mod/",
+      "@id": "https://www.putraadam.co.id/request-mod/",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "ANDROID",
-          "item": "https://www.putraadam.co.id/request_mod/"
+          "item": "https://www.putraadam.co.id/request-mod/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "APK SLOT",
-          "item": "https://www.putraadam.co.id/request_mod/"
+          "item": "https://www.putraadam.co.id/request-mod/"
         },
         {
           "@type": "ListItem",
@@ -663,7 +663,7 @@ SL888
 We’ll make it perfect.
 <strong>No fees, no worries.</strong>
 </p>
-<a data-controller="rudderstack--link-clicked" data-rudderstack--link-clicked-location-value="pdp" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SL888" data-href="https://www.putraadam.co.id/request_mod/" target="_blank" href="https://www.putraadam.co.id/request_mod/" class="link link__cta link__cta--on-light link--default">
+<a data-controller="rudderstack--link-clicked" data-rudderstack--link-clicked-location-value="pdp" data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="SL888" data-href="https://www.putraadam.co.id/request-mod/" target="_blank" href="https://www.putraadam.co.id/request-mod/" class="link link__cta link__cta--on-light link--default">
 <span class='link__content'>
 SL888
 
@@ -790,7 +790,7 @@ Not what you're looking for?
 Try another search.
 </h3>
 <div class='m-design__inline-search__search-container'>
-<div class="c-search-form c-search-form--rainbow"><form id="productPageSearch" class="c-search-form__search gtmproductPageSearch" action="https://www.putraadam.co.id/request_mod/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off"/><input type="hidden" name="authenticity_token" value="WqdN_WXrX6Na7SUrf7lbwZt_QM57bq_hTf22P0YlO3xnCXRmF_wz5r0iSdg2FoAGxICWq5XDnw-lzf0rz0y6SQ" autocomplete="off"/>
+<div class="c-search-form c-search-form--rainbow"><form id="productPageSearch" class="c-search-form__search gtmproductPageSearch" action="https://www.putraadam.co.id/request-mod/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off"/><input type="hidden" name="authenticity_token" value="WqdN_WXrX6Na7SUrf7lbwZt_QM57bq_hTf22P0YlO3xnCXRmF_wz5r0iSdg2FoAGxICWq5XDnw-lzf0rz0y6SQ" autocomplete="off"/>
 <div class='form__fields form__fields--inline'>
 <div class='form__fields--autocomplete-search-inline'>
 <input type="text" name="query" id="jsAutoCompleteproductPage" placeholder="Search by topic, theme, product..." data-searchUrl="/search/autocomplete" data-maxresults="6" class="form__control jsproductPageSearchField gtmproductPageSearchQuery" autocomplete="off" spellcheck="false" autocapitalize="off" autocorrect="off"/>
@@ -837,7 +837,7 @@ Learn More
 <div class='tp-accordion__button-text'>What is the Return/Exchange policy?</div>
 <span class="teepublicon teepublicon--dark-default teepublicon-background--transparent teepublicon--rotate-90"><img src="https://assets.teepublic.com/assets/teepublicons/chevron_round-65095dd1f1baa03d093ded395b217a5a2ca9f13e816a72e5690adab871c8eebf.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 </button>
-<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>We want you to love your order! If for any reason you don't, let us&#32;know and we’ll make things right.<a href=https://www.putraadam.co.id/request_mod/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
+<div class='tp-accordion__content' data-utilities--reveal-target='content'><p>We want you to love your order! If for any reason you don't, let us&#32;know and we’ll make things right.<a href=https://www.putraadam.co.id/request-mod/ class='link link__cta link__cta--on-light link--default' target='_blank'><span class='link__content'>Learn&nbsp;More</span></a></p>
 
 </div>
 </div></div>
@@ -854,49 +854,49 @@ Learn More
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
 <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
 <nav class='m-design__additional-info-list'>
-<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888
 </span>
 
 </a>
-<a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888 APK
 </span>
 
 </a>
-<a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888 LOGIN
 </span>
 
 </a>
-<a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888 DAFTAR
 </span>
 
 </a>
-<a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888 LINK
 </span>
 
 </a>
-<a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888 RESMI
 </span>
 
 </a>
 
-<a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888 LINK ALTERNATIF</span>
 
 </a>
-<a href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 SL888 DOWNLOAD
 </span>
@@ -1033,7 +1033,7 @@ For sales, exclusive content, and more!
 </p>
 </div>
 <div class='m-newsletter-signup-header__form'>
-<form data-controller="utilities--form-submission" data-utilities--form-submission-method-value="POST" data-utilities--form-submission-parent-class-value=".m-newsletter-signup" data-utilities--form-submission-success-class-value="m-newsletter-signup--success" data-utilities--form-submission-error-class-value="m-newsletter-signup--error" class="m-newsletter-signup-form" action="https://www.putraadam.co.id/request_mod/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jSLOeo_N8-l6cdEKkzExxIogpvQOYckItql32riIbQX2xYCuodiwnvzIpDIG6l0ZdFaADjg9f67sBwmNIooKiA" autocomplete="off"/><input type="hidden" name="marketing_contact[source]" id="marketing_contact_source" value="tp_footer" data-utilities--form-submission-target="input" autocomplete="off"/>
+<form data-controller="utilities--form-submission" data-utilities--form-submission-method-value="POST" data-utilities--form-submission-parent-class-value=".m-newsletter-signup" data-utilities--form-submission-success-class-value="m-newsletter-signup--success" data-utilities--form-submission-error-class-value="m-newsletter-signup--error" class="m-newsletter-signup-form" action="https://www.putraadam.co.id/request-mod/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jSLOeo_N8-l6cdEKkzExxIogpvQOYckItql32riIbQX2xYCuodiwnvzIpDIG6l0ZdFaADjg9f67sBwmNIooKiA" autocomplete="off"/><input type="hidden" name="marketing_contact[source]" id="marketing_contact_source" value="tp_footer" data-utilities--form-submission-target="input" autocomplete="off"/>
 <input type="hidden" name="marketing_contact[demo_version]" id="marketing_contact_demo_version" value="false" data-utilities--form-submission-target="input" autocomplete="off"/>
 <div class='tp-form'>
 <div class='tp-input-field--wrapper'>
@@ -1090,7 +1090,7 @@ Don't love it? We'll fix it. For free.
 </p>
 </div>
 <p class='m-footer__guarantee-link'>
-<a target="_blank" href="https://www.putraadam.co.id/request_mod/" class="link link__cta link__cta--on-dark link--default">
+<a target="_blank" href="https://www.putraadam.co.id/request-mod/" class="link link__cta link__cta--on-dark link--default">
 <span class='link__content'>
 SL888
 </span>
@@ -1114,25 +1114,25 @@ Contact Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Coupon Codes
 </span>
 
 </a>
-<a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 FAQ
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Free Shipping
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Refunds &amp; Returns
 </span>
@@ -1159,38 +1159,38 @@ About Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Accessibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Create a Dashery Store
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Careers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Hire an Artist
 </span>
 
 </a>
 
-<a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Social Responsibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 TeePublic Reviews
 </span>
@@ -1199,37 +1199,37 @@ TeePublic Reviews
 
 </div></div></div><div class="link-collection m-foot__links-section"><div class="link-collection__body"><h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
 
-<div class="link-collection__content"><a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<div class="link-collection__content"><a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 All Designs
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Content Directory
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Featured Artists
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Newest Designers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest T-Shirts" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Newest T-Shirts" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Newest T-Shirts
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Tag Directory
 </span>
@@ -1238,7 +1238,7 @@ Tag Directory
 
 </div></div></div><div class="link-collection m-foot__links-section"><div class="link-collection__body"><h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
 
-<div class="link-collection__content"><a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<div class="link-collection__content"><a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Artist Signup
 </span>
@@ -1252,7 +1252,7 @@ Design Guide
 </a>
 
 
-<a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://www.putraadam.co.id/request_mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://www.putraadam.co.id/request-mod/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 TeePublic Blog
 </span>
@@ -1498,7 +1498,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.putraadam.co.id/request_mod/" href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.putraadam.co.id/request-mod/" href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -1528,13 +1528,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.putraadam.co.id/request_mod/" href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.putraadam.co.id/request-mod/" href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.putraadam.co.id/request_mod/" href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.putraadam.co.id/request-mod/" href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -1546,19 +1546,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.putraadam.co.id/request_mod/" href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.putraadam.co.id/request-mod/" href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.putraadam.co.id/request_mod/" href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.putraadam.co.id/request-mod/" href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.putraadam.co.id/request_mod/" href="https://www.putraadam.co.id/request_mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.putraadam.co.id/request-mod/" href="https://www.putraadam.co.id/request-mod/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -1955,13 +1955,13 @@ Back To Menu
 </div>
 <div class="m-tray-shop__popular-topics"><h3>Browse All Topics</h3>
 <div class='m-tray-shop__popular-topics-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.putraadam.co.id/request_mod/" title="Funny" href="https://www.putraadam.co.id/request_mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.putraadam.co.id/request-mod/" title="Funny" href="https://www.putraadam.co.id/request-mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 funny
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://www.putraadam.co.id/request_mod/" title="Music" href="https://www.putraadam.co.id/request_mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://www.putraadam.co.id/request-mod/" title="Music" href="https://www.putraadam.co.id/request-mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 music
 </span>
@@ -1973,19 +1973,19 @@ anime
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.putraadam.co.id/request_mod/" title="Movies" href="https://www.putraadam.co.id/request_mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.putraadam.co.id/request-mod/" title="Movies" href="https://www.putraadam.co.id/request-mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 movies
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.putraadam.co.id/request_mod/" title="Television" href="https://www.putraadam.co.id/request_mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.putraadam.co.id/request-mod/" title="Television" href="https://www.putraadam.co.id/request-mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 television
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.putraadam.co.id/request_mod/" title="Sports" href="https://www.putraadam.co.id/request_mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.putraadam.co.id/request-mod/" title="Sports" href="https://www.putraadam.co.id/request-mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 sports
 </span>
@@ -1997,13 +1997,13 @@ sci-fi
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.putraadam.co.id/request_mod/" title="Vintage" href="https://www.putraadam.co.id/request_mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.putraadam.co.id/request-mod/" title="Vintage" href="https://www.putraadam.co.id/request-mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 vintage
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.putraadam.co.id/request_mod/" title="Animals" href="https://www.putraadam.co.id/request_mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.putraadam.co.id/request-mod/" title="Animals" href="https://www.putraadam.co.id/request-mod/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 animals
 </span>
@@ -2293,7 +2293,7 @@ DD_RUM.onReady(function(){DD_RUM.init({clientToken:'pub8afcb76e7747723499bda481a
 				<div class="popup-header">
 					<button id="close-button">×</button>
 				</div>
-				<a href="https://www.putraadam.co.id/request_mod/" target="_blank" id="popup-link">
+				<a href="https://www.putraadam.co.id/request-mod/" target="_blank" id="popup-link">
 				<img src="https://cdn.jsdelivr.net/gh/ezmeralda88/images@main/sl888-apk-2026.jpg" alt="SL888">
 				</a>
 			</div>
